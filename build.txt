@@ -1,0 +1,6 @@
+displayName = Disable Demonshade Red Devil
+author = ChemAtDark
+version = 1.1
+modReferences = CalamityMod
+hideResources = true
+hideCode = true

@@ -1,0 +1,1 @@
+Disables the Red Devil from the Demonshade armor's set bonus, this time it actually works

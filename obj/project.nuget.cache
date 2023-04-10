@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pwveiqXwS9wa6c2U5pCPDTS47d7ARFchzF51vsimFF7T7YlnWMJd7VUA5xEj4houeJKNMoopE3fmGxthITLMDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Darkov\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\DisableDemonshadeRedDevil\\DisableDemonshadeRedDevil.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Darkov\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
